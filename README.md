@@ -11,7 +11,7 @@ A responsive and animate website, built with React, Tailwind CSS, and GSAP. This
 
 ## Live Demo
 
-Experience the live version here: [Xentry](https://xentry.vercel.app/)
+Experience the live version here: [Xentry](https://xentry-live.vercel.app/)
 
 ## Installation
 
